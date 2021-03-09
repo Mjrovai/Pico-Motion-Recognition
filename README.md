@@ -1,5 +1,5 @@
 # Pico-Motion-Recognition
-
+<img src='portada1.png'/>
 This Repository has the code used on the 2 parts tutorial (TO BE PUBLISHED). 
 - The first one is to explore the Raspberry Pi Pico (RP2040), its main components and how to program it, using its C/C++ SDK (Software Development Kit). 
 - The Pico is used to capture "gesture data" used on a TinyML model training, using Edge Impulse Studio. Once developed and tested, the model is deployed and used for real inference on the same device.
