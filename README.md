@@ -10,5 +10,5 @@
 
 - Here a quick view of the <a href='https://youtu.be/KZtT5GOwNDk'>project running at YouTube</a>
 
-I recommend, visit the great tutorial <a href='https://www.hackster.io/dmitrywat/machine-learning-inference-on-raspberry-pico-2040-e6e874'>Machine Learning Inference on Raspberry Pico 2040</a> by <a href='https://www.hackster.io/dmitrywat'>Dmitry Maslov</a>, that inspire me on this project. 
+I recommend, visiting the great tutorial <a href='https://www.hackster.io/dmitrywat/machine-learning-inference-on-raspberry-pico-2040-e6e874'>Machine Learning Inference on Raspberry Pico 2040</a> by <a href='https://www.hackster.io/dmitrywat'>Dmitry Maslov</a>, which inspire me on this project. 
 
