@@ -8,3 +8,5 @@
 
 - The project can be cloned on <a href='https://studio.edgeimpulse.com/public/20571/latest'>Edge Impulse Studio - Project</a>
 
+- Here a quick view of the <a href='https://youtu.be/KZtT5GOwNDk'>project running at YouTube</a>
+
