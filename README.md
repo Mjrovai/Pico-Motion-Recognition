@@ -6,5 +6,5 @@
 
 - The Pico is used to capture "gesture data" used on a TinyML model training, using Edge Impulse Studio. Once developed and tested, the model is deployed and used for real inference on the same device.
 
-- The project can be cloned on <a heref='<https://studio.edgeimpulse.com/public/20571/latest'>Edge Impulse Studio
+- The project can be cloned on <a href='https://studio.edgeimpulse.com/public/20571/latest'>Edge Impulse Studio - Project</a>
 
