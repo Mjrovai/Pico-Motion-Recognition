@@ -1,6 +1,6 @@
 # Pico-Motion-Recognition
 <img src='https://github.com/Mjrovai/Pico-Motion-Recognition/blob/main/Portada1.png'/>
-<p>This Repository has the code used on the 2 parts tutorial (TO BE PUBLISHED). <p>
+<p>This Repository has the code used on the 2 parts tutorial <a href='https://www.hackster.io/mjrobot/tinyml-motion-recognition-using-raspberry-pi-pico-6b6071'>TinyML - Motion Recognition Using Raspberry Pi Pico</a> <p>
   
 - The first part is to explore the Raspberry Pi Pico (RP2040), its main components and how to program it, using its C/C++ SDK (Software Development Kit). 
 
